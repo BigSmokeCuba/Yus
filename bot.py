@@ -14,7 +14,7 @@ import time
 
 conf = Config()
 
-bot_token = '5138875486:AAGWBtkgoLnvapbOIhDvOwcPy0FIUlotnfs'
+bot_token = '5211583737:AAHdbwLfNrGFbMESYa8qUivvsJFN_y0Y200'
 api_id = '5258763564'
 api_hash = 'C7_YB22cD8E'
 
