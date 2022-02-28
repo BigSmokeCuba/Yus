@@ -16,7 +16,7 @@ conf = Config()
 
 bot_token = '5211583737:AAHdbwLfNrGFbMESYa8qUivvsJFN_y0Y200'
 api_id = '5258763564'
-api_hash = 'C7_YB22cD8E'
+api_hash = '76be0d3cbc21ba384b593a012f6ee9c0'
 
 api_id = int(api_id)
 async def text_progres(index,max):
