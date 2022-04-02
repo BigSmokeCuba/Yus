@@ -444,7 +444,7 @@ def init():
         bot = TelegramClient( 
             'bot', api_id=api_id, api_hash=api_hash).start(bot_token=bot_token) 
 
-        bot.send_message(1047046816, 'Bot Activo😎!!')
+        bot.send_message(811906873, 'Bot Activo😎!!')
         action = 0
         actual_file = ''
 
